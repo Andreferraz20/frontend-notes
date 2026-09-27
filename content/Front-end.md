@@ -18,9 +18,10 @@ tags:
 | Curso | Status | O que cobre |
 |---|---|---|
 | [[Fundamentos do HTML]] | Em andamento | Linguagem de marcação, atributos, semântica e estrutura de página |
+| [[Fundamentos do CSS]] | Em andamento | Estilização do HTML: cascata, propriedades e valores |
 
 > [!todo] Próximos cursos
-> Conforme novos módulos forem chegando (CSS, JavaScript, etc.), entram aqui como novas pastas/cursos, seguindo a mesma convenção.
+> Conforme novos módulos forem chegando (JavaScript, etc.), entram aqui como novas pastas/cursos, seguindo a mesma convenção.
 
 ---
 
