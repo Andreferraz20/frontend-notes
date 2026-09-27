@@ -3,6 +3,7 @@ title: "Fundamentos do HTML"
 tipo: MOC
 curso: Rocketseat
 modulo: "Fundamentos do HTML"
+status: Concluído
 tags:
   - moc
   - rocketseat

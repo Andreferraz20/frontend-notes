@@ -19,7 +19,7 @@ tags:
 
 | Parte | Status | O que cobre |
 |---|---|---|
-| [[Fundamentos do HTML]] | Em andamento | Linguagem de marcação, atributos, semântica e estrutura de página |
+| [[Fundamentos do HTML]] | Concluído | Linguagem de marcação, atributos, semântica e estrutura de página |
 | [[Fundamentos do CSS]] | Em andamento | Estilização do HTML: cascata, propriedades e valores |
 
 > [!todo] Próximas partes
