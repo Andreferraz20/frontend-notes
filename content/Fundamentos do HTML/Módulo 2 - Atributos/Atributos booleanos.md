@@ -1,6 +1,6 @@
 ---
 title: "Atributos booleanos"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 2 - Atributos"
 tags:
   - rocketseat
@@ -50,7 +50,8 @@ Algumas pessoas escrevem o nome do atributo repetido como valor. Funciona normal
 - Anterior: [[Atributos]]
 - Próxima: [[Atributos globais]]
 - Índice do módulo: [[Módulo 2 - Atributos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 
 ---
 

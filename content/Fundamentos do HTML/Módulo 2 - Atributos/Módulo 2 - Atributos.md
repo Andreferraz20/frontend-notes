@@ -1,7 +1,7 @@
 ---
 title: "Módulo 2 - Atributos"
 tipo: MOC
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 tags:
   - moc
   - rocketseat
@@ -42,4 +42,5 @@ Atributo global              →  funciona em qualquer tag (ex: id, class, data-
 ## Próximo módulo
 
 - [[Módulo 3 - Elementos de conteúdos]]
-- Índice do curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]

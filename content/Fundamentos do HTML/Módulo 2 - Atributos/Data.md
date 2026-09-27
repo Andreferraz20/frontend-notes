@@ -1,6 +1,6 @@
 ---
 title: "Data"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 2 - Atributos"
 tags:
   - rocketseat
@@ -63,7 +63,8 @@ Diferente de `id` (único) ou `class` (classificação), `data-*` é **ilimitado
 - Anterior: [[Class]]
 - Próxima: [[Style]]
 - Índice do módulo: [[Módulo 2 - Atributos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Id]], [[Class]]
 
 ---

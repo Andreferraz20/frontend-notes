@@ -1,6 +1,6 @@
 ---
 title: "Hiperlink"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 3 - Elementos de conteúdos"
 tags:
   - rocketseat
@@ -76,7 +76,8 @@ Muito usado quando não se quer que a pessoa saia do seu site ao clicar num link
 - Anterior: [[Representação de código de computador]]
 - Próxima: [[Imagens]]
 - Índice do módulo: [[Módulo 3 - Elementos de conteúdos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Id]], [[O que é HTML]]
 
 ---

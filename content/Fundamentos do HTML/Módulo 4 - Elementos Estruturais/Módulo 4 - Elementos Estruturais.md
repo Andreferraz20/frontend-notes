@@ -1,7 +1,7 @@
 ---
 title: "Módulo 4 - Elementos Estruturais"
 tipo: MOC
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 tags:
   - moc
   - rocketseat
@@ -44,7 +44,7 @@ tags:
 
 ---
 
-## Fim do curso
+## Fim desta parte
 
-- Índice do curso: [[Fundamentos do HTML]]
-- Trilha: [[Front-end]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]

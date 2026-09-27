@@ -1,7 +1,7 @@
 ---
 title: "Módulo 1 - Primeiros passos"
 tipo: MOC
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 tags:
   - moc
   - rocketseat
@@ -33,4 +33,5 @@ tags:
 ## Próximo módulo
 
 - [[Módulo 2 - Atributos]]
-- Índice do curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]

@@ -1,7 +1,7 @@
 ---
 title: "O que é CSS"
-curso: "Fundamentos do CSS"
-modulo: "Conhecendo o CSS"
+curso: Rocketseat
+modulo: "Módulo 1 - Conhecendo o CSS"
 tags:
   - rocketseat
   - css
@@ -74,8 +74,10 @@ Em um arquivo com extensão **`.css`**, que define os estilos aplicados ao HTML.
 
 ## Navegação
 
-- Índice do módulo: [[Conhecendo o CSS]]
-- Curso: [[Fundamentos do CSS]]
+- Índice do módulo: [[Módulo 1 - Conhecendo o CSS]]
+- Fundamentos: [[Fundamentos do CSS]]
+- Curso: [[Front-end]]
+- Relacionado: [[O que é HTML]]
 
 ---
 
@@ -84,7 +86,7 @@ Em um arquivo com extensão **`.css`**, que define os estilos aplicados ao HTML.
 >
 > **[00:08]** Por que escolheram esse nome? Porque o acúmulo de uma propriedade e um valor, que são as coisas fundamentais que a gente estuda em CSS, eles servem para poder dar estilos para o HTML. Significa que você vai colocando um estilo após outro estilo após outro estilo.
 >
-> **[00:24]** Imagina um arquivo .css que é onde você vai colocar estilos. Você pode definir estilos colocando uma propriedade, nesse caso eu estou mostrando pra você a cor de fundo, e um valor, e ali eu termino com uma ponta e vírgula.
+> **[00:24]** Imagina um arquivo .css que é onde você vai colocar estilos. Você pode definir estilos colocando uma propriedade, nesse caso eu estou mostrando pra você a cor de fundo, e um valor, e ali eu termino com um ponto e vírgula.
 >
 > **[00:38]** Assim eu posso ir empilhando outros valores. Eu posso ir modificando todo o meu HTML por causa desse conjunto, dessa regrinha de cascata que a gente está falando. Então a ideia de ser criado esse nome, Folha de Estilo em Cascata, é porque eu tenho um lugar onde eu escrevo estilos e vou colocando e empilhando um após o outro, e assim modificando a minha página.
 >

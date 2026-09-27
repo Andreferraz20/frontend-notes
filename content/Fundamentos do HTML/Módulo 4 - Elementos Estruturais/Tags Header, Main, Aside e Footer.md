@@ -1,6 +1,6 @@
 ---
 title: "Tags Header, Main, Aside e Footer"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 4 - Elementos Estruturais"
 tags:
   - rocketseat
@@ -72,7 +72,8 @@ tags:
 - Anterior: [[Desenhando uma página web]]
 - Próxima: [[Tags Nav, Section e Article]]
 - Índice do módulo: [[Módulo 4 - Elementos Estruturais]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Anatomia de um documento HTML]]
 
 ---

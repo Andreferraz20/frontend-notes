@@ -1,6 +1,6 @@
 ---
 title: "Fluxo HTML"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 1 - Primeiros passos"
 tags:
   - rocketseat
@@ -57,7 +57,8 @@ Esse comportamento é o **padrão do navegador**, sem nenhum CSS aplicado. Confo
 - Anterior: [[Espaços e quebras de linha]]
 - Próxima: [[Aninhamento de Tags]]
 - Índice do módulo: [[Módulo 1 - Primeiros passos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Tags genéricas Div e Span]]
 
 ---

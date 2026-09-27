@@ -1,6 +1,6 @@
 ---
 title: "Anatomia de um documento HTML"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 4 - Elementos Estruturais"
 tags:
   - rocketseat
@@ -77,7 +77,8 @@ Em editores como VS Code, digitar `!` e apertar Enter gera automaticamente todo 
 - Anterior: [[Imagens]] (Módulo 3)
 - Próxima: [[Desenhando uma página web]]
 - Índice do módulo: [[Módulo 4 - Elementos Estruturais]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Títulos e parágrafos]]
 
 ---

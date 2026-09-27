@@ -1,6 +1,6 @@
 ---
 title: "Formatação básica de textos"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 3 - Elementos de conteúdos"
 tags:
   - rocketseat
@@ -61,7 +61,8 @@ Isso é diferente de aplicar estilo via CSS/`style` só para efeito visual — a
 - Anterior: [[Títulos e parágrafos]]
 - Próxima: [[Listas]]
 - Índice do módulo: [[Módulo 3 - Elementos de conteúdos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Aninhamento de Tags]]
 
 ---

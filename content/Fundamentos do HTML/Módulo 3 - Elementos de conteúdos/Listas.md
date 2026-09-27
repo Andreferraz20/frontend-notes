@@ -1,6 +1,6 @@
 ---
 title: "Listas"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 3 - Elementos de conteúdos"
 tags:
   - rocketseat
@@ -72,7 +72,8 @@ Renderiza numerada (1, 2, 3...).
 - Anterior: [[Formatação básica de textos]]
 - Próxima: [[Representação de código de computador]]
 - Índice do módulo: [[Módulo 3 - Elementos de conteúdos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 
 ---
 

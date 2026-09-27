@@ -1,6 +1,6 @@
 ---
 title: "O que é HTML"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 1 - Primeiros passos"
 tags:
   - rocketseat
@@ -54,7 +54,8 @@ Arquivos escritos em HTML usam a extensão **`.html`** (ex: `index.html`).
 
 - Próxima: [[Comentários no HTML]]
 - Índice do módulo: [[Módulo 1 - Primeiros passos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 
 ---
 

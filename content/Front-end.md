@@ -1,32 +1,36 @@
 ---
 title: "Front-end"
 tipo: MOC
+curso: Rocketseat
 tags:
   - moc
+  - rocketseat
   - front-end
 ---
 
 # Front-end
 
 > [!abstract] Índice geral
-> Trilha de estudos de front-end. Cada curso vira uma pasta própria, dividida em módulos e aulas.
+> Curso de Front-end. Um curso só, dividido em partes (Fundamentos do HTML, Fundamentos do CSS, e o que vier a seguir), cada uma com seus próprios módulos e aulas.
 
 ---
 
-## Cursos
+## Módulos
 
-| Curso | Status | O que cobre |
+| Parte | Status | O que cobre |
 |---|---|---|
 | [[Fundamentos do HTML]] | Em andamento | Linguagem de marcação, atributos, semântica e estrutura de página |
 | [[Fundamentos do CSS]] | Em andamento | Estilização do HTML: cascata, propriedades e valores |
 
-> [!todo] Próximos cursos
-> Conforme novos módulos forem chegando (JavaScript, etc.), entram aqui como novas pastas/cursos, seguindo a mesma convenção.
+> [!todo] Próximas partes
+> Conforme o curso avança (JavaScript, etc.), entram aqui como novas pastas, seguindo a mesma convenção.
 
 ---
 
-## Convenções desta trilha
+## Convenções destas notas
 
-- Cada curso é uma pasta com um MOC próprio (ex: [[Fundamentos do HTML]]), listando seus módulos
-- Cada módulo tem seu próprio MOC (ex: [[Módulo 1 - Primeiros passos]]), listando suas aulas
+- O curso inteiro é **um só**: [[Fundamentos do HTML]] e [[Fundamentos do CSS]] são partes dele, não cursos separados
+- Cada parte é uma pasta com um MOC próprio, listando seus módulos (ex: [[Fundamentos do HTML]] lista [[Módulo 1 - Primeiros passos]], [[Módulo 2 - Atributos]]...)
+- Cada módulo tem seu próprio MOC, listando suas aulas
 - Cada aula é uma nota com: resumo organizado (com exemplos de código baseados na aula) + **Pontos-chave** + **Navegação** + transcrição completa (recolhida, no final)
+- Frontmatter com `curso: Rocketseat`, `modulo` (o módulo específico da aula) e `tags` para busca e filtro

@@ -2,6 +2,7 @@
 title: "Fundamentos do HTML"
 tipo: MOC
 curso: Rocketseat
+modulo: "Fundamentos do HTML"
 tags:
   - moc
   - rocketseat
@@ -11,7 +12,7 @@ tags:
 # Fundamentos do HTML
 
 > [!abstract] Índice geral
-> Curso de fundamentos de HTML: da definição da linguagem até a estruturação completa de uma página com tags semânticas.
+> Parte do curso [[Front-end]] dedicada aos fundamentos de HTML: da definição da linguagem até a estruturação completa de uma página com tags semânticas.
 
 ---
 
@@ -49,6 +50,6 @@ tags:
 
 ---
 
-## Trilha
+## Curso
 
 - Índice geral: [[Front-end]]

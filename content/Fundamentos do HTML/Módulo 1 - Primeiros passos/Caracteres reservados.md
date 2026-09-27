@@ -1,6 +1,6 @@
 ---
 title: "Caracteres reservados"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 1 - Primeiros passos"
 tags:
   - rocketseat
@@ -65,7 +65,8 @@ Isso não funciona: assim que o navegador encontra o segundo `<p`, ele interpret
 - Anterior: [[Aninhamento de Tags]]
 - Próxima: [[Atributos]] (Módulo 2)
 - Índice do módulo: [[Módulo 1 - Primeiros passos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Representação de código de computador]]
 
 ---

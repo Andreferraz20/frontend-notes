@@ -1,6 +1,6 @@
 ---
 title: "Representação de código de computador"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 3 - Elementos de conteúdos"
 tags:
   - rocketseat
@@ -64,7 +64,8 @@ Vale notar: o navegador só precisa que o `<` seja trocado por `&lt;` para já e
 - Anterior: [[Listas]]
 - Próxima: [[Hiperlink]]
 - Índice do módulo: [[Módulo 3 - Elementos de conteúdos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Caracteres reservados]], [[Espaços e quebras de linha]]
 
 ---

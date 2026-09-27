@@ -1,6 +1,6 @@
 ---
 title: "Aninhamento de Tags"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 1 - Primeiros passos"
 tags:
   - rocketseat
@@ -61,7 +61,8 @@ Se a tag `<strong>` foi aberta dentro do `<p>`, ela precisa fechar **antes** do 
 - Anterior: [[Fluxo HTML]]
 - Próxima: [[Caracteres reservados]]
 - Índice do módulo: [[Módulo 1 - Primeiros passos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Anatomia das Tags]], [[Formatação básica de textos]]
 
 ---

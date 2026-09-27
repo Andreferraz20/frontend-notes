@@ -1,6 +1,6 @@
 ---
 title: "Títulos e parágrafos"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 3 - Elementos de conteúdos"
 tags:
   - rocketseat
@@ -70,7 +70,8 @@ Note a hierarquia: `Sobre mim` (h1) é o tópico da página; `Trabalho` e `Estil
 - Anterior: [[Semântica]]
 - Próxima: [[Formatação básica de textos]]
 - Índice do módulo: [[Módulo 3 - Elementos de conteúdos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Anatomia de um documento HTML]]
 
 ---

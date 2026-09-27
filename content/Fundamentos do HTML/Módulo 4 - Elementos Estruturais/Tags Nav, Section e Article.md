@@ -1,6 +1,6 @@
 ---
 title: "Tags Nav, Section e Article"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 4 - Elementos Estruturais"
 tags:
   - rocketseat
@@ -92,7 +92,8 @@ Todas essas (junto com `header`, `main`, `aside`, `footer` de [[Tags Header, Mai
 - Anterior: [[Tags Header, Main, Aside e Footer]]
 - Próxima: [[Tags genéricas Div e Span]]
 - Índice do módulo: [[Módulo 4 - Elementos Estruturais]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Listas]], [[Títulos e parágrafos]]
 
 ---

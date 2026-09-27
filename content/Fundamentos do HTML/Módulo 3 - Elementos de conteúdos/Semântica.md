@@ -1,6 +1,6 @@
 ---
 title: "Semântica"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 3 - Elementos de conteúdos"
 tags:
   - rocketseat
@@ -53,7 +53,8 @@ O HTML5 trouxe mais de **100 elementos semânticos** novos. Não é necessário 
 - Anterior: [[Style]] (Módulo 2)
 - Próxima: [[Títulos e parágrafos]]
 - Índice do módulo: [[Módulo 3 - Elementos de conteúdos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Tags genéricas Div e Span]] — o contraponto: elementos sem semântica
 
 ---

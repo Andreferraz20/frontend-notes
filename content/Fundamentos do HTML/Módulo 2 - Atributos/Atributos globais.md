@@ -1,6 +1,6 @@
 ---
 title: "Atributos globais"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 2 - Atributos"
 tags:
   - rocketseat
@@ -52,7 +52,8 @@ A [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes) doc
 - Anterior: [[Atributos booleanos]]
 - Próxima: [[Id]]
 - Índice do módulo: [[Módulo 2 - Atributos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 
 ---
 

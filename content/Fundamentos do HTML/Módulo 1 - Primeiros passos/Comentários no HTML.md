@@ -1,6 +1,6 @@
 ---
 title: "Comentários no HTML"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 1 - Primeiros passos"
 tags:
   - rocketseat
@@ -56,7 +56,8 @@ tags:
 - Anterior: [[O que é HTML]]
 - Próxima: [[Anatomia das Tags]]
 - Índice do módulo: [[Módulo 1 - Primeiros passos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 
 ---
 

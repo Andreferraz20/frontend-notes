@@ -1,6 +1,6 @@
 ---
 title: "Class"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 2 - Atributos"
 tags:
   - rocketseat
@@ -58,7 +58,8 @@ Seguem a mesma lógica do [[Id]]: **sem caracteres especiais**. A diferença é 
 - Anterior: [[Id]]
 - Próxima: [[Data]]
 - Índice do módulo: [[Módulo 2 - Atributos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Id]], [[Data]]
 
 ---

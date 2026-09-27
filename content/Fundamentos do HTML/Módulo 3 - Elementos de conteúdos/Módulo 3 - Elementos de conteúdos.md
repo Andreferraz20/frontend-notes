@@ -1,7 +1,7 @@
 ---
 title: "Módulo 3 - Elementos de conteúdos"
 tipo: MOC
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 tags:
   - moc
   - rocketseat
@@ -33,4 +33,5 @@ tags:
 ## Próximo módulo
 
 - [[Módulo 4 - Elementos Estruturais]]
-- Índice do curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]

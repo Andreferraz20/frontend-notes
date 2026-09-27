@@ -1,6 +1,6 @@
 ---
 title: "Espaços e quebras de linha"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 1 - Primeiros passos"
 tags:
   - rocketseat
@@ -65,7 +65,8 @@ Em vez de empilhar `<br>` para simular parágrafos separados, o mais correto sem
 - Anterior: [[Anatomia das Tags]]
 - Próxima: [[Fluxo HTML]]
 - Índice do módulo: [[Módulo 1 - Primeiros passos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Caracteres reservados]]
 
 ---

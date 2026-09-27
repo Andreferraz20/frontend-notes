@@ -1,6 +1,6 @@
 ---
 title: "Imagens"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 3 - Elementos de conteúdos"
 tags:
   - rocketseat
@@ -79,7 +79,8 @@ Imagens têm um universo mais avançado de estudo — performance (carregamento 
 - Anterior: [[Hiperlink]]
 - Próxima: [[Anatomia de um documento HTML]] (Módulo 4)
 - Índice do módulo: [[Módulo 3 - Elementos de conteúdos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Anatomia das Tags]]
 
 ---

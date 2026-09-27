@@ -1,6 +1,6 @@
 ---
 title: "Anatomia das Tags"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 1 - Primeiros passos"
 tags:
   - rocketseat
@@ -64,7 +64,8 @@ A barra final (`/>`) é opcional visualmente — o importante é entender que es
 - Anterior: [[Comentários no HTML]]
 - Próxima: [[Espaços e quebras de linha]]
 - Índice do módulo: [[Módulo 1 - Primeiros passos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Aninhamento de Tags]], [[Atributos]]
 
 ---

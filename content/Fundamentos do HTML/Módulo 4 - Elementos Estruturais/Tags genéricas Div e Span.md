@@ -1,6 +1,6 @@
 ---
 title: "Tags genéricas Div e Span"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 4 - Elementos Estruturais"
 tags:
   - rocketseat
@@ -74,7 +74,8 @@ Nem todo agrupamento precisa de uma tag semântica. Quando não existe uma tag q
 
 - Anterior: [[Tags Nav, Section e Article]]
 - Índice do módulo: [[Módulo 4 - Elementos Estruturais]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Fluxo HTML]], [[Semântica]], [[Class]], [[Id]], [[Data]]
 
 ---

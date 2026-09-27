@@ -1,6 +1,6 @@
 ---
 title: "Style"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 2 - Atributos"
 tags:
   - rocketseat
@@ -50,7 +50,8 @@ Isso significa:
 - Anterior: [[Data]]
 - Próxima: [[Semântica]] (Módulo 3)
 - Índice do módulo: [[Módulo 2 - Atributos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 
 ---
 

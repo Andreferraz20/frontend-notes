@@ -1,6 +1,6 @@
 ---
 title: "Desenhando uma página web"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 4 - Elementos Estruturais"
 tags:
   - rocketseat
@@ -56,7 +56,8 @@ Cada uma dessas áreas tem uma **semântica** própria (ver [[Semântica]]) — 
 - Anterior: [[Anatomia de um documento HTML]]
 - Próxima: [[Tags Header, Main, Aside e Footer]]
 - Índice do módulo: [[Módulo 4 - Elementos Estruturais]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 
 ---
 

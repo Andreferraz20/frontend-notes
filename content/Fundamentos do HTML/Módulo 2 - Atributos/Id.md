@@ -1,6 +1,6 @@
 ---
 title: "Id"
-curso: "Fundamentos do HTML"
+curso: Rocketseat
 modulo: "Módulo 2 - Atributos"
 tags:
   - rocketseat
@@ -63,7 +63,8 @@ Mais tarde, esse `id` pode ser usado para selecionar exatamente essa `div` no CS
 - Anterior: [[Atributos globais]]
 - Próxima: [[Class]]
 - Índice do módulo: [[Módulo 2 - Atributos]]
-- Curso: [[Fundamentos do HTML]]
+- Fundamentos: [[Fundamentos do HTML]]
+- Curso: [[Front-end]]
 - Relacionado: [[Class]], [[Data]]
 
 ---
