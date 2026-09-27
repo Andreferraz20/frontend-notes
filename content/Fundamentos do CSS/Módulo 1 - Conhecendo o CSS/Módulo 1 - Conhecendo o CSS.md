@@ -2,6 +2,7 @@
 title: "Módulo 1 - Conhecendo o CSS"
 tipo: MOC
 curso: Rocketseat
+status: Concluído
 tags:
   - moc
   - rocketseat
@@ -12,7 +13,7 @@ tags:
 # Módulo 1 - Conhecendo o CSS
 
 > [!abstract] O que este módulo cobre
-> Primeiros passos com CSS: o que é a linguagem, a ideia de cascata e a unidade básica propriedade/valor.
+> Os fundamentos do CSS: o que é a linguagem, cascata, especificidade, tipos de valor, seletores, combinators, e as formas de ligar CSS a um HTML.
 
 ---
 
@@ -27,8 +28,15 @@ tags:
 | 5 | [[Especificidade]] | Peso de cada seletor: tag, classe, id |
 | 6 | [[Mais específico que especificidade]] | `style` inline e `!important` |
 | 7 | [[Valores e unidades de medida]] | Tipos de dado, como pesquisar no MDN |
+| 8 | [[Seletores]] | Tipo, id, classe, atributo, universal |
+| 9 | [[Combinators]] | Descendente, lista, irmão adjacente, filho direto |
+| 10 | [[Adicionando CSS no HTML]] | Inline, `<style>`, arquivo externo com `<link>` |
 
 ---
+
+## Próximo módulo
+
+- [[Módulo 2 - Box Model]]
 
 ## Curso
 

@@ -72,6 +72,7 @@ Aqui o texto fica **verde**: a regra `.green` (seletor de classe, ver [[Class]])
 ## Navegação
 
 - Anterior: [[Anatomia de uma declaração CSS]]
+- Próxima: [[Especificidade]]
 - Índice do módulo: [[Módulo 1 - Conhecendo o CSS]]
 - Fundamentos: [[Fundamentos do CSS]]
 - Curso: [[Front-end]]

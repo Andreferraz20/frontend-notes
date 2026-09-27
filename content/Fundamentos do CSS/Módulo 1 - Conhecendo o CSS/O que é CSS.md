@@ -74,6 +74,7 @@ Em um arquivo com extensão **`.css`**, que define os estilos aplicados ao HTML.
 
 ## Navegação
 
+- Próxima: [[Comentários em CSS]]
 - Índice do módulo: [[Módulo 1 - Conhecendo o CSS]]
 - Fundamentos: [[Fundamentos do CSS]]
 - Curso: [[Front-end]]

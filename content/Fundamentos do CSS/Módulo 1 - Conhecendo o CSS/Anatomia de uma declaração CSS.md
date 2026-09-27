@@ -69,6 +69,7 @@ Esse `h1` usado como seletor é um **seletor de tag/elemento**: ele se conecta a
 ## Navegação
 
 - Anterior: [[Comentários em CSS]]
+- Próxima: [[Cascata]]
 - Índice do módulo: [[Módulo 1 - Conhecendo o CSS]]
 - Fundamentos: [[Fundamentos do CSS]]
 - Curso: [[Front-end]]

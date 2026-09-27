@@ -68,6 +68,7 @@ Todo o bloco fica desativado — útil pra testar rapidamente como a página fic
 ## Navegação
 
 - Anterior: [[O que é CSS]]
+- Próxima: [[Anatomia de uma declaração CSS]]
 - Índice do módulo: [[Módulo 1 - Conhecendo o CSS]]
 - Fundamentos: [[Fundamentos do CSS]]
 - Curso: [[Front-end]]

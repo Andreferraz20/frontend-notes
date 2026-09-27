@@ -18,9 +18,13 @@ tags:
 
 ## Módulos
 
-| # | Módulo | O que cobre |
-|---|---|---|
-| 1 | [[Módulo 1 - Conhecendo o CSS]] | O que é CSS, cascata, propriedade e valor |
+| # | Módulo | Status | O que cobre |
+|---|---|---|---|
+| 1 | [[Módulo 1 - Conhecendo o CSS]] | Concluído | O que é CSS, cascata, especificidade, valores, seletores, combinators, como ligar CSS ao HTML |
+| 2 | [[Módulo 2 - Box Model]] | Não iniciado | — |
+
+> [!todo] Próximos módulos
+> Mais módulos de CSS ainda vêm depois do Box Model — entram aqui conforme chegarem.
 
 ---
 

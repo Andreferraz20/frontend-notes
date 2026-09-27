@@ -88,6 +88,7 @@ Uma propriedade de cor (como `color`) aceita, entre outros, **keyword** (nome de
 ## Navegação
 
 - Anterior: [[Mais específico que especificidade]]
+- Próxima: [[Seletores]]
 - Índice do módulo: [[Módulo 1 - Conhecendo o CSS]]
 - Fundamentos: [[Fundamentos do CSS]]
 - Curso: [[Front-end]]
