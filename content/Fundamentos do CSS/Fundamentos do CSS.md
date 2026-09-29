@@ -21,7 +21,7 @@ tags:
 | # | Módulo | Status | O que cobre |
 |---|---|---|---|
 | 1 | [[Módulo 1 - Conhecendo o CSS]] | Concluído | O que é CSS, cascata, especificidade, valores, seletores, combinators, como ligar CSS ao HTML |
-| 2 | [[Módulo 2 - Box Model]] | Não iniciado | — |
+| 2 | [[Módulo 2 - Box Model]] | Em andamento | Content, padding, border, margin |
 
 > [!todo] Próximos módulos
 > Mais módulos de CSS ainda vêm depois do Box Model — entram aqui conforme chegarem.

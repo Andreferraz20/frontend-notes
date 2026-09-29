@@ -65,6 +65,7 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
 
       // Fundamentos do CSS modules
       "Módulo 1 - Conhecendo o CSS": 1,
+      "Módulo 2 - Box Model": 2,
 
       // Módulo 1 - Conhecendo o CSS
       "O que é CSS": 1,
@@ -77,6 +78,14 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       "Seletores": 8,
       "Combinators": 9,
       "Adicionando CSS no HTML": 10,
+
+      // Módulo 2 - Box Model
+      "Box Model": 1,
+      "Display": 2,
+      "Display Block": 3,
+      "Display Inline": 4,
+      "Border": 5,
+      "Width e Height": 6,
     }
 
     // Folders before files, like the default explorer behavior.

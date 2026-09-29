@@ -72,7 +72,7 @@ Uma propriedade de cor (como `color`) aceita, entre outros, **keyword** (nome de
 | `keyword` | Palavra-chave específica da propriedade | `uppercase`, `none` |
 
 > [!tip] A documentação é sua parceira, não uma muleta
-> Voltar à documentação mil vezes ao longo da carreira é **normal**, não é sinal de que você "não sabe CSS". O objetivo desta aula não é decorar tipos de dado, é saber o caminho: hover no editor → MDN → seção "Syntax". Esse caminho serve pra qualquer propriedade nova que aparecer daqui pra frente.
+> Voltar à documentação mil vezes ao longo da carreira é **normal**, não é sinal de que você "não sabe CSS". O objetivo desta aula não é decorar tipos de dado, é saber o caminho: hover no editor → MDN → seção "Syntax". Esse caminho serve pra qualquer propriedade nova que aparecer daqui pra frente. Outra documentação equivalente, usada mais pra frente em [[Border]], é o [devdocs.io](https://devdocs.io/css/) — mesma ideia, reúne várias linguagens/tecnologias num só lugar de busca.
 
 ---
 
