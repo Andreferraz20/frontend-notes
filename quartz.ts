@@ -86,6 +86,9 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       "Display Inline": 4,
       "Border": 5,
       "Width e Height": 6,
+      "Margin": 7,
+      "Padding": 8,
+      "Box Sizing": 9,
     }
 
     // Folders before files, like the default explorer behavior.

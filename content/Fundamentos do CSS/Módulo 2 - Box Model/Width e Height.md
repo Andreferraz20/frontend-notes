@@ -99,6 +99,7 @@ Se o conteúdo precisar de mais espaço do que a caixa tem, ele **transborda** �
 ## Navegação
 
 - Anterior: [[Border]]
+- Próxima: [[Margin]]
 - Índice do módulo: [[Módulo 2 - Box Model]]
 - Fundamentos: [[Fundamentos do CSS]]
 - Curso: [[Front-end]]
