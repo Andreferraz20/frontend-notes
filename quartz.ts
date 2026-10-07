@@ -66,6 +66,8 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       // Fundamentos do CSS modules
       "Módulo 1 - Conhecendo o CSS": 1,
       "Módulo 2 - Box Model": 2,
+      "Módulo 3 - Fontes e textos": 3,
+      "Módulo 4 - Cores e fundos": 4,
 
       // Módulo 1 - Conhecendo o CSS
       "O que é CSS": 1,
@@ -89,6 +91,24 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       "Margin": 7,
       "Padding": 8,
       "Box Sizing": 9,
+
+      // Módulo 3 - Fontes e textos
+      "Fundamentos": 1,
+      "Font Family": 2,
+      "Font Size": 3,
+      "Font Style e Font Weight": 4,
+      "Color, Text Transform e Text Decoration": 5,
+      "Text Align e Line Height": 6,
+      "Letter Spacing e Word Spacing": 7,
+      "Shorthand Font": 8,
+      "Web Fonts": 9,
+
+      // Módulo 4 - Cores e fundos
+      "Cores e Fundos": 1,
+      "Nome de cores e hexadecimal": 2,
+      "Background Color, Image e Repeat": 3,
+      "Background Position e Size": 4,
+      "Background Shorthand": 5,
     }
 
     // Folders before files, like the default explorer behavior.

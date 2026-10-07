@@ -3,6 +3,7 @@ title: "Fundamentos do CSS"
 tipo: MOC
 curso: Rocketseat
 modulo: "Fundamentos do CSS"
+status: Concluído
 tags:
   - moc
   - rocketseat
@@ -22,9 +23,8 @@ tags:
 |---|---|---|---|
 | 1 | [[Módulo 1 - Conhecendo o CSS]] | Concluído | O que é CSS, cascata, especificidade, valores, seletores, combinators, como ligar CSS ao HTML |
 | 2 | [[Módulo 2 - Box Model]] | Concluído | Content, padding, border, margin, display, box-sizing |
-
-> [!todo] Próximos módulos
-> Mais módulos de CSS ainda vêm por aí — entram aqui conforme chegarem.
+| 3 | [[Módulo 3 - Fontes e textos]] | Concluído | Font family, size, style/weight, color, text-transform/decoration, align, line-height, spacing, shorthand font, web fonts |
+| 4 | [[Módulo 4 - Cores e fundos]] | Concluído | Cores com nome e hexadecimal, cor e imagem de fundo, repetição, posição, tamanho, shorthand `background` |
 
 ---
 

@@ -35,8 +35,7 @@ tags:
 
 ## Próximo módulo
 
-> [!todo] Ainda sem nome
-> Mais módulos de CSS vêm depois deste — entram aqui conforme chegarem.
+- [[Módulo 3 - Fontes e textos]]
 
 ## Curso
 

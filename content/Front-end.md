@@ -20,7 +20,7 @@ tags:
 | Parte | Status | O que cobre |
 |---|---|---|
 | [[Fundamentos do HTML]] | Concluído | Linguagem de marcação, atributos, semântica e estrutura de página |
-| [[Fundamentos do CSS]] | Em andamento | Estilização do HTML: cascata, propriedades e valores |
+| [[Fundamentos do CSS]] | Concluído | Estilização do HTML: cascata, box model, fontes e textos, cores e fundos |
 
 > [!todo] Próximas partes
 > Conforme o curso avança (JavaScript, etc.), entram aqui como novas pastas, seguindo a mesma convenção.
